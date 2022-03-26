@@ -1,0 +1,16 @@
+PODS:
+  - ChainThen (0.0.1)
+
+DEPENDENCIES:
+  - ChainThen (from `../`)
+
+EXTERNAL SOURCES:
+  ChainThen:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ChainThen: 1788121a47c2f76f62c10a29c8a7c3e328eec3ae
+
+PODFILE CHECKSUM: d321c67ebabe0d91cc758aa0558d4a3f22314f62
+
+COCOAPODS: 1.10.1
